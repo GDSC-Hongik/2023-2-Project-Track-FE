@@ -1,0 +1,1 @@
+const myName = '김유진'
