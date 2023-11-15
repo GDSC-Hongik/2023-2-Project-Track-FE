@@ -1,5 +1,6 @@
 [프로그래밍과 데이터 in JavaScript]
 
+
 1-4.
 let myVoca = {
 	// 여기에 코드를 작성하세요
