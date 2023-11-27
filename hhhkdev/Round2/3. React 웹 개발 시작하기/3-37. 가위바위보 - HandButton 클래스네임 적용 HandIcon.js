@@ -11,7 +11,7 @@ const IMAGES = {
 // className prop을 추가하고, img 태그에 적용해주세요
 function HandIcon({ value, className }) {
   const src = IMAGES[value];
-  return <img className={className} srt={src} alt={value} />;
+  return <img className={className} src={src} alt={value} />;
 }
 
 export default HandIcon;
